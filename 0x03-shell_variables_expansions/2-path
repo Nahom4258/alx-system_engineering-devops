@@ -1,2 +1,2 @@
 #!/bin/bash
-source export PATH="/action:$PATH"
+export PATH="$HOME/action:$PATH"
